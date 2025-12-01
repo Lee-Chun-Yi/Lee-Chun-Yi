@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**Lee-Chun-Yi/Lee-Chun-Yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 1. About Me
+
+I am an undergraduate aerospace engineering student at NCKU specializing in Guidance, Navigation, and Control (GNC) of UAVs. My recent work focuses on indoor quadrotor navigation, direct PWM motor control via Crazyflie firmware bypass, Vicon-based state estimation, and autonomous flight experiments.
+
+---
+
+# 2. Projects
+
+## Crazyflie Direct PWM Control
+
+🔗 [crazyflie-firmware-pwm](https://github.com/yourrepo)
+Developing a low-latency, direct motor-PWM framework for Crazyflie 2.1 using Python `cflib`, bypassing built-in PID loops.
+
+![](image/pwm_example.png)
+
+**Used in this project for:**
+
+* Four-layer cascaded PID (position → velocity → attitude → rate)
+* Vicon UDP data streaming
+* Multi-threaded Python control pipeline
+
+---
+
+## UAV Indoor Navigation (MATLAB + Simulink)
+
+🔗 [NCKU-Quadrotor-Navigation](https://github.com/yourrepo)
+Path following controller and simulation environment for indoor flight experiments.
+
