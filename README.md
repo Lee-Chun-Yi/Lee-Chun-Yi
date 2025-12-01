@@ -2,12 +2,8 @@
 
 
 
-# 1. About Me
 
-I am an undergraduate aerospace engineering student at NCKU specializing in Guidance, Navigation, and Control (GNC) of UAVs. My recent work focuses on indoor quadrotor navigation, direct PWM motor control via Crazyflie firmware bypass, Vicon-based state estimation, and autonomous flight experiments.
-
-
-# 2. Projects
+# Projects
 
 ## Crazyflie Direct PWM Control
 
