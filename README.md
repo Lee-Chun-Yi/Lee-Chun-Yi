@@ -18,7 +18,6 @@ Developing a low-latency, direct motor-PWM framework for Crazyflie 2.1 using Pyt
 * Vicon UDP data streaming
 * Multi-threaded Python control pipeline
 
----
 
 ## UAV Indoor Navigation (MATLAB + Simulink)
 
