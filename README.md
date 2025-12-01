@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-
-
 # My Projects
 
 ## Crazyflie Direct PWM Control
