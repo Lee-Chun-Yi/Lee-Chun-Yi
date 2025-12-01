@@ -8,18 +8,18 @@
 ## GNC of UAV's
 
 * Develop full-stack UAV control loops (position / velocity / attitude / rate).
-  * ![NCKU-Quadrotor-Navigation](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation)
+  * [NCKU-Quadrotor-Navigation](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation)
 * Implement and test autonomous flight on Crazyflie 2.1.
-  * ![NCKU-Quadrotor-Navigation/experiment_results](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/experiment_results)
+  * [NCKU-Quadrotor-Navigation/experiment_results](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/experiment_results)
 
 ## Software Development 
 
 * Use MATLAB for system analysis and Simulink as the real-time control environment.
-  * ![NCKU-Quadrotor-Navigation/Matlab/data_analysis](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/Matlab/data_analysis)
+  * [NCKU-Quadrotor-Navigation/Matlab/data_analysis](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/Matlab/data_analysis)
 * Build control systems in Python (cflib, UDP, multithreading).
-  * ![NCKU-Quadrotor-Navigation/Python](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/Python)
+  * [NCKU-Quadrotor-Navigation/Python](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/Python)
 * Build control systems in C++ (crazyflie-lib-cpp)
-  * ![NCKU-Quadrotor-Navigation/cpp](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/cpp)
+  * [NCKU-Quadrotor-Navigation/cpp](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/cpp)
 * Customize Crazyflie firmware
-  * ![crazyflie-firmware-pwm](https://github.com/Lee-Chun-Yi/crazyflie-firmware-pwm)
+  * [crazyflie-firmware-pwm](https://github.com/Lee-Chun-Yi/crazyflie-firmware-pwm)
 
