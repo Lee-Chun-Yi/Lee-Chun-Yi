@@ -6,7 +6,7 @@
 
 ## GNC of UAV's
 
-* Develop full-stack UAV control loops (position / velocity / attitude / rate) on PC (Matlab/Python).
+* Develop full-stack UAV control loops (position / velocity / attitude / rate) on PC (Matlab / Python).
   * [NCKU-Quadrotor-Navigation](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation)
 * Implement and test autonomous flight on Crazyflie 2.1.
   * [NCKU-Quadrotor-Navigation/experiment_results](https://github.com/Lee-Chun-Yi/NCKU-Quadrotor-Navigation/tree/main/experiment_results)
