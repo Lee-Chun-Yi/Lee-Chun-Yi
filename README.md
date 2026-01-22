@@ -1,4 +1,4 @@
-![](https://github.com/Lee-Chun-Yi/Lee-Chun-Yi/blob/d90b50b1b18626a0e7184aee10c8aea162e8661c/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-01-23%20050355.png)
+![](https://github.com/Lee-Chun-Yi/Lee-Chun-Yi/blob/main/image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-01-23%20050640.png)
 
 
 # My Projects
